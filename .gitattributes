@@ -1,0 +1,2 @@
+*.keymap text linguist-language=C
+*.conf text linguist-language=toml
